@@ -1,3 +1,5 @@
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrAaifNZOND0VVJ7SN2iYAD9qUmEwyEXhd2g&usqp=CAU
+)]
 <h1 align="center">Hi 👋, I'm Kapil Narayan Singh</h1>
 <h3 align="center">A passionate data scientist from India.</h3>
 <img align='right' alt='Coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
@@ -23,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapilnarayansingh&show_icons=true&locale=en" alt="kapilnarayansingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilnarayansingh&" alt="kapilnarayansingh" /></p>
+
